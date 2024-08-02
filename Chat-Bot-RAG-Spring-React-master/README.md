@@ -5,8 +5,8 @@ Une application web fullstack intégrant Spring et React pour déployer un Chat 
 
 ## Overview
 
-<img src="F:\Chat-Bot-RAG-Spring-React-master\Chat-Bot-RAG-Spring-React-master\images\image1.jpeg">
-<img src="F:\Chat-Bot-RAG-Spring-React-master\Chat-Bot-RAG-Spring-React-master\images\image2.png">
+<img src=".\images\image1.jpeg">
+<img src=".\images\image2.png">
 
 
 
